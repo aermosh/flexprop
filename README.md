@@ -37,8 +37,7 @@ flexprop &
 
 Open hello_world_flexprop.cpp and click "Complie & Run on P2":
  
-File -> Open -> hello_world_flexprop.cpp 
-Compile & Run on P2
+File -> Open -> hello_world_flexprop.cpp -> Compile & Run on P2
 
 FlexProp ANSI Terminal Window should open with the following message:
 
