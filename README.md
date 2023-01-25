@@ -9,7 +9,7 @@ https://github.com/totalspectrum/flexprop/releases/tag/v5.9.23
 
 1. Download flexprop.tar.gz and unzip it into /opt (so that it’s /opt/flexprop):
 
-sudo tar -xvzf p2llvm.tar.gz -C /opt
+sudo tar -xvzf flexprop.tar.gz -C /opt
 
 *****************************************************************************************
 
