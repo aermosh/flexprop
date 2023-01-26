@@ -35,7 +35,7 @@ sudo cp -P flexprop /usr/local/bin
 
 flexprop &
 
-Open hello_world_flexprop.cpp and click "Complie & Run on P2":
+Open hello_world_flexprop.cpp then compile it and run: 
  
 File -> Open -> hello_world_flexprop.cpp -> Compile & Run on P2
 
